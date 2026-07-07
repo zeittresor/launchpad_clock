@@ -1,0 +1,50 @@
+{
+  "profile": "classic",
+  "output_port": "",
+  "input_port": "",
+  "orientation": "normal",
+  "display_mode": "digits_large_switch",
+  "switch_interval_seconds": 5,
+  "hour_color": "yellow",
+  "minute_color": "yellow",
+  "large_hour_color": "green",
+  "large_minute_color": "yellow",
+  "separator_color": "green",
+  "overlap_color": "green",
+  "seconds_color_done": "green",
+  "seconds_color_current": "yellow",
+  "macro_marker_color": "dim",
+  "blink": true,
+  "refresh_seconds": 1.0,
+  "auto_connect": true,
+  "allow_non_launchpad_output": false,
+  "macro_row_enabled": false,
+  "second_sound": "none",
+  "minute_sound": "none",
+  "hour_sound": "none",
+  "language": "en",
+  "theme": "dark",
+  "macro_commands": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "classic_color_values": {
+    "off": 0,
+    "green": 48,
+    "yellow": 62,
+    "dim": 16
+  },
+  "mk3_color_values": {
+    "off": 0,
+    "green": 21,
+    "yellow": 13,
+    "dim": 17
+  },
+  "large_digit_style": "clear_3x7"
+}
