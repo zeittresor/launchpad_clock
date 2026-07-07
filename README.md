@@ -5,6 +5,16 @@ It can use a Launchpad-style MIDI controller as a LED clock, live preview displa
 
 The app also works without a connected device. In that case it starts in live preview mode.
 
+<img width="1081" height="777" alt="time_h" src="https://github.com/user-attachments/assets/f1150cfb-6399-4bbb-adfc-99f2e56c2b8b" />
+
+<img width="1083" height="773" alt="time_m" src="https://github.com/user-attachments/assets/b85f6d49-17ce-4756-a3fe-2d29ce387d60" />
+
+Background:
+
+In the past, I used my Launchpad for its intended purpose, but now it serves as a clock and a function keypad :-)
+
+https://www.youtube.com/watch?v=XmOkz26WWoY
+
 ## Quick Start on Windows
 
 ```bat
